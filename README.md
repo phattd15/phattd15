@@ -1,4 +1,5 @@
-I'm a **Software Engineer** at **Mercari**, previously at **Google**, **FPT Japan**, **Toyota**, and **CodeDrills**. My focus is on **Backend, SRE, and Infrastructure** development.
+I'm a **Software Engineer** at **Mercari**, previously at **Google**, **FPT Japan**, **Toyota**, and **CodeDrills**. 
+My focus is on **Backend, SRE, and Infrastructure** development.
 
 🎓 **Education**: Bachelor's @ Toyo University | Master's @ University of Colorado Boulder  
 💻 **Tech Stack**: Go, TypeScript, Java, Python | Spring, FastAPI, Vue, React, Next.js  
