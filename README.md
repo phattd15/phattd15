@@ -9,5 +9,3 @@ My focus is on **Backend, SRE, and Infrastructure** development.
 
 🔗 **Profiles**:  
 [AtCoder](https://atcoder.jp/users/phattd) | [Codeforces](https://codeforces.com/profile/phattd) | [Credly](https://www.credly.com/users/phattd) | [LinkedIn](https://www.linkedin.com/in/phattd/)  
-
-🚀 Always eager to learn, build, and scale systems efficiently!  
